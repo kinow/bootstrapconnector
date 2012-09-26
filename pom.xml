@@ -11,13 +11,6 @@
   
   <dependencies>
     <dependency>
-    	<groupId>org.libreoffice</groupId>
-    	<artifactId>bootstrapconnector.jar</artifactId>
-    	<version>0.1</version>
-    	<scope>system</scope>
-    	<systemPath>${basedir}/lib/bootstrapconnector.jar</systemPath>
-    </dependency>
-    <dependency>
         <groupId>org.libreoffice</groupId>
         <artifactId>juh.jar</artifactId>
         <version>0.1</version>
